@@ -1,1 +1,3 @@
-# dio-reactjs-200819-githubapp
+# dio-reactjs-200819-frontend_componentizado
+
+Em desenvolvimento...
