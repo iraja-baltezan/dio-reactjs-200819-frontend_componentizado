@@ -1,10 +1,12 @@
 import React from 'react';
+import Layout from './components/Layout';
+import MemoCards from './components/MemoCards';
 
 function App() {
   return (
-    <div>
-      Olá!
-    </div>
+    <Layout>
+      <MemoCards />
+    </Layout>
   );
 }
 
